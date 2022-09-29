@@ -1,8 +1,8 @@
 ![This is the way](https://starwarsblog.starwars.com/wp-content/uploads/2022/09/mando-grogu-galaxys-edge-tall.jpg)
 
-#Isaac Varela
-##CSE 110
-###Department of Computer Science and Engineering
+# Isaac Varela
+## CSE 110
+### Department of Computer Science and Engineering
 
 This assignment is **Due Soon**.
 There is an emphasis on *soon*.
@@ -24,24 +24,24 @@ git status
 git add
 git commit
 ```
-##Section Link Header
+## Section Link Header
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-###Relative Links
+### Relative Links
 [Link to README.md file](/README.md)
 
-###Ordered List
+### Ordered List
 1. Apple
 2. Banana
 3. Carrot
 
-###Unordered List
+### Unordered List
 Grocery List
 - Soap
 - Fruits
 - Bread
 
-###Task List
+### Task List
 Shopping List
 - [x] Shoes :tada:
 - [ ] Shirt
