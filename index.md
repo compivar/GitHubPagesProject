@@ -5,9 +5,13 @@
 ### Department of Computer Science and Engineering
 
 This assignment is **Due Soon**.
+
 There is an emphasis on *soon*.
-I meant to say break, not~~brake~~.
+
+I meant to say break, not ~~brake~~.
+
 Make sure to **write your name** on the page.
+
 As always, ***Do not cheat*** on the assignment.
 <sub>If you do cheat there will be consequences.</sub>
 
