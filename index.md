@@ -1,8 +1,8 @@
 ![This is the way](https://starwarsblog.starwars.com/wp-content/uploads/2022/09/mando-grogu-galaxys-edge-tall.jpg)
 
 # Isaac Varela
-## CSE 110
-### Department of Computer Science and Engineering
+## Course Assignment
+### Department of School
 
 This assignment is **Due Soon**.
 
